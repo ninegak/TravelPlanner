@@ -8,7 +8,7 @@
                 <RouterLink to="/">Reviews</RouterLink>
                 <RouterLink to="/">Contact</RouterLink>
             </div>
-            <p>start</p>
+            <RouterLink to="/plan">Start</RouterLink>
         </div>
     </div>
 </template>
